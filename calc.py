@@ -3,7 +3,7 @@ import numpy as np
 
 # Constants
 initial_distance = 9.9  # Initial distance of galaxies
-hubble_constant = 70  # Hubble constant (adjust as needed)
+hubble_constant = 70  # Hubble constant 
 simulation_duration = 1000  # Duration of the simulation in arbitrary units
 time_interval = 0.1  # Time interval for each frame in the simulation
 
